@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:focal
 MAINTAINER Torkalis
 
 ENV DEBIAN_FRONTEND noninteractive
